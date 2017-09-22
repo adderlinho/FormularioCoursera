@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Formulario Coursera</string>
+
+    <string name="form_username">Nombre</string>
+    <string name="form_borndate">Fecha de nacimiento</string>
+    <string name="form_phone">Teléfono</string>
+    <string name="form_email">Correo</string>
+    <string name="form_description">Descripción</string>
+    <string name="form_btn">Siguiente</string>
+
+    <string name="param_username">Nombre</string>
+    <string name="param_borndate">Fecha</string>
+    <string name="param_phone">Teléfono</string>
+    <string name="param_email">Correo</string>
+    <string name="param_description">Descripción</string>
+
+    <string name="con_title">Confirmar Datos</string>
+    <string name="con_btn">Editar Datos</string>
+</resources>
